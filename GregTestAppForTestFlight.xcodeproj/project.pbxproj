@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F8B49FAE2B329C3C003C3F94 /* Neighborhoods.geojson in Resources */ = {isa = PBXBuildFile; fileRef = F8B49FAD2B329C3C003C3F94 /* Neighborhoods.geojson */; };
 		F8D61CE92B30B81E007D104A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D61CE82B30B81E007D104A /* AppDelegate.swift */; };
 		F8D61CEB2B30B81E007D104A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D61CEA2B30B81E007D104A /* SceneDelegate.swift */; };
 		F8D61CED2B30B81E007D104A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D61CEC2B30B81E007D104A /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F8B49FAD2B329C3C003C3F94 /* Neighborhoods.geojson */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Neighborhoods.geojson; sourceTree = "<group>"; };
 		F8D61CE52B30B81E007D104A /* GregTestAppForTestFlight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GregTestAppForTestFlight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8D61CE82B30B81E007D104A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8D61CEA2B30B81E007D104A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		F8D61CE72B30B81E007D104A /* GregTestAppForTestFlight */ = {
 			isa = PBXGroup;
 			children = (
+				F8B49FAD2B329C3C003C3F94 /* Neighborhoods.geojson */,
 				F8D61CE82B30B81E007D104A /* AppDelegate.swift */,
 				F8D61CEA2B30B81E007D104A /* SceneDelegate.swift */,
 				F8D61CEC2B30B81E007D104A /* ViewController.swift */,
@@ -131,6 +134,7 @@
 				F8D61CF82B30B81F007D104A /* LaunchScreen.storyboard in Resources */,
 				F8D61CF52B30B81F007D104A /* Assets.xcassets in Resources */,
 				F8D61CF02B30B81E007D104A /* Main.storyboard in Resources */,
+				F8B49FAE2B329C3C003C3F94 /* Neighborhoods.geojson in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
